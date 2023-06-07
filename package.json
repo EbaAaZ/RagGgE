@@ -1,10 +1,10 @@
 {
-  "name": "@react-llm/workspace",
+  "name": "RagGgE",
   "version": "0.0.1",
   "type": "module",
   "main": "dist/bundle.cjs.js",
   "module": "dist/bundle.esm.js",
-  "author": "Matt Rickard <npm@matt-rickard.com>",
+  "author": "EbaAaZ",
   "license": "MIT",
   "private": true,
   "workspaces": [
